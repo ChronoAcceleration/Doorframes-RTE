@@ -1,0 +1,3 @@
+--!server
+
+print("hello, rte")
